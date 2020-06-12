@@ -15,6 +15,11 @@ Test:
 Use:
 `node app.js`
 
+<img width="977" alt="Screen Shot 2020-06-12 at 12 54 48 AM" src="https://user-images.githubusercontent.com/49378180/84480004-b60ab800-ac48-11ea-8169-1a09bcd95347.png">
+
+<img width="656" alt="Screen Shot 2020-06-12 at 12 54 04 AM" src="https://user-images.githubusercontent.com/49378180/84479952-9f646100-ac48-11ea-9511-50983baf4c36.png">
+
+<img width="1170" alt="Screen Shot 2020-06-12 at 12 53 50 AM" src="https://user-images.githubusercontent.com/49378180/84479976-ab502300-ac48-11ea-90c4-be63b0a76034.png">
 
 ## Question:
 
